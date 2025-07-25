@@ -1,3 +1,14 @@
+### FGU notes
+
+- Theme lives in `obsidian-vault/.obsidian/themes/Things`.
+- Original css is `theme.css`.
+- I have created `theme.css.backup.css` with the original css.
+- I tried to symlink `theme.css` from `obsidian-things` so that I can make changes there. However, for some reason this requries that I restart Obsidian for changes to take effect.
+- Hence, I currently edit `theme.css` directly in the Things folder until changes are stable, at which point I will copy this css over to `obsidian-things` and commit it to Github.
+
+
+
+
 ### Notes on V1 of this theme
 
 V1 of this theme was built using code from **@kepano's** great Minimal theme. Please support @kepano's work!
